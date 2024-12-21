@@ -26,7 +26,7 @@ public class CollectApiStepDefinitions {
     @When("kullanici gonderdigi requeste karsilik donen response'u kaydeder")
     public void kullaniciGonderdigiRequesteKarsilikDonenResponseUKaydeder() {
 
-        response=given().when().header("authorization","apikey 2Fy6uHa0vZjMvzzsj1Ha0L:6tbX8uhsLW0bcFqQuiSUzY").get(url);
+        response=given().when().header("authorization","apikey 15twgPQ3pxJkdfcaVKlj5k:6wTKIWundas1Xk2vh2rbUM").get(url);
 
     }
 
